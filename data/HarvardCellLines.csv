@@ -1,5 +1,5 @@
-HMS LINCS Batch ID,HMS LINCS ID,Name,Alternative Names,LINCS ID,Alternative ID,Reference Source,Organism,Organ,Tissue,Cell Type,Details of Cell Type,Donor Sex,Donor Age,Donor Ethnicity,Donor Health Status,Disease,,Details of Disease,Production Details,Genetic Modification(s),Known Mutations,Citation Information for Mutations,Verification Reference Profile,Growth Properties,Recommended Culture Conditions,Relevant Citations,Usage Note,Comments,Provider,Provider Catalog ID,Provider Batch ID,Source Information,Date Received,HMS QC Outcome,Transient Modification(s),Date Publicly Available,Most Recent Update
-50008-2,50008,CAL-51,,LCL-1472,"<a href = ""http://purl.obolibrary.org/obo/CLO_0002185""  target=""blank"">CLO_0002185</a>","<a href = ""https://www.dsmz.de/catalogues/details/culture/ACC-302.html?tx_dsmzresources_pi5%5BreturnPid%5D=192"" target=""blank"">Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures ACC 302</a>",Homo sapiens,breast,,epithelial-like,,female,45,,,"DOID:3459, breast carcinoma",,progressive ductal breast adenocarcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=910927""  target=""blank"">COSS910927</a>",,adherent,From MGH/CMT as specified by cell provider: 80% Dulbecco's MEM (4.5 g/L glucose) + 20% FBS split culture 1:2 once or twice a week using trypsin/EDTA before cells reach complete confluency; seed out at ca. 2 x 106 cells/25 cm 2 ; cells may grow very slowly initially after thawing or after stringent trypsination at 37C with 5-10% CO2 cell harvest of ca. 15-20 x 106 cells/80 cm 2,,,,Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures,ACC-302,,Obtained by Caitlin Mills (Harvard Medical School) from DSMZ,,,,4/25/12,8/24/16
+HMS LINCS Batch ID,HMS LINCS ID,Name,Alternative Names,LINCS ID,Alternative ID,Reference Source,Organism,Organ,Tissue,Cell Type,Details of Cell Type,Donor Sex,Donor Age,Donor Ethnicity,Donor Health Status,Disease,,Details of Disease,Production Details,Genetic Modification(s),Known Mutations,Citation Information for Mutations,Verification Reference Profile,Growth Properties,Recommended Culture Conditions,Relevant Citations,Usage Note,Comments,Provider,Provider Catalog ID,Provider Batch ID,Source Information,Date Received,HMS QC Outcome,Transient Modification(s),Date Publicly Available,Most Recent Update,T Stage
+50008-2,50008,CAL-51,,LCL-1472,"<a href = ""http://purl.obolibrary.org/obo/CLO_0002185""  target=""blank"">CLO_0002185</a>","<a href = ""https://www.dsmz.de/catalogues/details/culture/ACC-302.html?tx_dsmzresources_pi5%5BreturnPid%5D=192"" target=""blank"">Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures ACC 302</a>",Homo sapiens,breast,,epithelial-like,,female,45,,,"DOID:3459, breast carcinoma",,progressive ductal breast adenocarcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=910927""  target=""blank"">COSS910927</a>",,adherent,From MGH/CMT as specified by cell provider: 80% Dulbecco's MEM (4.5 g/L glucose) + 20% FBS split culture 1:2 once or twice a week using trypsin/EDTA before cells reach complete confluency; seed out at ca. 2 x 106 cells/25 cm 2 ; cells may grow very slowly initially after thawing or after stringent trypsination at 37C with 5-10% CO2 cell harvest of ca. 15-20 x 106 cells/80 cm 2,,,,Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures,ACC-302,,Obtained by Caitlin Mills (Harvard Medical School) from DSMZ,,,,4/25/12,8/24/16,4
 50029-2,50029,MCF7,,LCL-1460,"<a href = ""http://purl.obolibrary.org/obo/CLO_0007606""  target=""blank"">CLO_0007606</a>","<a href = ""http://www.atcc.org/Products/All/HTB-22"" target=""blank"">ATCC HTB-22</a>",Homo sapiens,breast,,epithelial,,female,69,White,,"DOID:3458, adenocarcinoma",,breast adenocarcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=905946""  target=""blank"">COSS905946</a>","DNA Profile (STR, source: ATCC):
 Amelogenin: X 
 CSF1PO: 10 
@@ -18,7 +18,7 @@ Add 6.0 to 8.0 ml of complete growth medium and aspirate cells by gently pipetti
 Transfer the cell suspension to the centrifuge tube with the medium and cells from step 1, and centrifuge at approximately 125 x g for 5 to 10 minutes. Discard the supernatant.
 Resuspend the cell pellet in fresh growth medium. Add appropriate aliquots of the cell suspension to new culture vessels.
 Incubate cultures at 37C.
-Subcultivation ratio: A subcultivation ratio of 1:3 to 1:6 is recommended",,,,ATCC,HTB-22,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010.",7/16/10,PASS,,4/25/12,4/4/16
+Subcultivation ratio: A subcultivation ratio of 1:3 to 1:6 is recommended",,,,ATCC,HTB-22,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010.",7/16/10,PASS,,4/25/12,4/4/16,4
 50056-1,50056,HME1,hTERT-HME1,LCL-2083,"<a href = ""http://purl.obolibrary.org/obo/CLO_0004291""  target=""blank"">CLO_0004291</a>","<a href = ""http://www.atcc.org/Products/All/CRL-4010"" target=""blank"">ATCC CRL-4010</a>",Homo sapiens,breast,,epithelial,,female,53,,,not diseased,,,"Human mammary epithelium, HME1 cell line, was derived from a 53-year-old patient undergoing reduction mammoplasty surgery (no history of breast cancer). 
 The HME1 cells were immortalized by infection with the retrovirus pBabepuro+hTERT vector and cultured in complete growth medium containing puromycin until stable clones were selected.",pBabepuro+hTERT integration,,,"DNA Profile (STR, source: ATCC): 
 Amelogenin: X 
@@ -43,7 +43,7 @@ Discard supernatant and resuspend cells in fresh growth medium. Add appropriate 
 Incubate cultures at 37C.
 Interval: weekly 
 Subcultivation Ratio: A subcultivation ratio of 1:4 to 1:6 is recommended. 
-Medium Renewal: Every 2 to 3 days",,,,ATCC,CRL-4010,,"Obtained by Mario Niepel (Harvard Medical School) from ATCC in March, 2012",3/2/12,PASS,,5/1/12,7/12/16
+Medium Renewal: Every 2 to 3 days",,,,ATCC,CRL-4010,,"Obtained by Mario Niepel (Harvard Medical School) from ATCC in March, 2012",3/2/12,PASS,,5/1/12,7/12/16,3
 50057-2,50057,SK-BR-3,SKBr3,LCL-1475,"<a href = ""http://purl.obolibrary.org/obo/CLO_0009034""  target=""blank"">CLO_0009034</a>","<a href = ""http://www.atcc.org/Products/All/HTB-30"" target=""blank"">ATCC HTB-30</a>",Homo sapiens,breast,,epithelial,,female,43,White,,"DOID:3459, adenocarcinoma",,,,none,,,"DNA Profile (STR, source: ATCC): 
 Amelogenin: X 
 CSF1PO: 12 
@@ -66,7 +66,7 @@ Add 6.0 to 8.0 ml of complete growth medium and aspirate cells by gently pipetti
 Add appropriate aliquots of the cell suspension to new culture vessels.
 Incubate cultures at 37 deg C.
 Subcultivation Ratio: A subcultivation ratio of 1:2 is recommended 
-Medium Renewal: 2 to 3 times per week",,,,ATCC,HTB-30,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,PASS,,5/1/12,7/12/16
+Medium Renewal: 2 to 3 times per week",,,,ATCC,HTB-30,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,PASS,,5/1/12,7/12/16,4
 50058-2,50058,MDA-MB-231,MDAMB231; MDA-MB231,LCL-1461,"<a href = ""http://purl.obolibrary.org/obo/CLO_0007634""  target=""blank"">CLO_0007634</a>","<a href = ""http://www.atcc.org/Products/All/HTB-26"" target=""blank"">ATCC HTB-26</a>",Homo sapiens,breast,,epithelial,,female,51,White,,"DOID:3458, adenocarcinoma",,breast adenocarcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=905960""  target=""blank"">COSS905960</a>","DNA Profile (STR, source: ATCC): 
 Amelogenin: X 
 CSF1PO: 12,13 
@@ -89,7 +89,7 @@ Add 6.0 to 8.0 ml of complete growth medium and aspirate cells by gently pipetti
 Add appropriate aliquots of the cell suspension to new culture vessels.
 Incubate cultures at 37 deg C without CO2.
 Subcultivation Ratio: A subcultivation ratio of 1:2 to 1:4 is recommended 
-Medium Renewal: 2 to 3 times per week",,,,ATCC,HTB-26,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,PASS,,5/1/12,7/12/16
+Medium Renewal: 2 to 3 times per week",,,,ATCC,HTB-26,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,PASS,,5/1/12,7/12/16,4
 50105-2,50105,BT-20,,LCL-1476,"<a href = ""http://purl.obolibrary.org/obo/CLO_0002041""  target=""blank"">CLO_0002041</a>","<a href = ""http://www.atcc.org/Products/All/HTB-19"" target=""blank"">ATCC HTB-19</a>",Homo sapiens,breast,,,,female,74,White,,"DOID:3459, breast carcinoma",,breast ductal carcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=906801""  target=""blank"">COSS906801</a>",,adherent,"From MGH/CMT as specified by cell provider: Minimum essential medium (Eagle) with 2 mM L-glutamine and Earle's BSS adjusted to contain 1.5 g/L sodium bicarbonate, 0.1 mM non-essential amino acids, and 1.0 mM sodium pyruvate, 90%; fetal bovine serum, 10%.
 Protocol: 
 Remove and discard culture medium.
@@ -99,7 +99,7 @@ Note: To avoid clumping do not agitate the cells by hitting or shaking the flask
 Add 6.0 to 8.0 ml of complete growth medium and aspirate cells by gently pipetting.
 Add appropriate aliquots of the cell suspension to new culture vessels.
 Incubate cultures at 37°C.
-Subcultivation ratio: A subcultivation ratio of 1:2 to 1:4 is recommended",,,,ATCC,HTB-19,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,PASS,,7/31/12,4/4/16
+Subcultivation ratio: A subcultivation ratio of 1:2 to 1:4 is recommended",,,,ATCC,HTB-19,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,PASS,,7/31/12,4/4/16,4
 50108-2,50108,BT-549,,LCL-1310,"<a href = ""http://purl.obolibrary.org/obo/CLO_0002044""  target=""blank"">CLO_0002044</a>","<a href = ""http://www.atcc.org/Products/All/HTB-122"" target=""blank"">ATCC HTB-122</a>",Homo sapiens,breast,,,,female,72,White,,"DOID:3008, ductal carcinoma",,breast ductal carcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=905951""  target=""blank"">COSS905951</a>",,adherent,"From MGH/CMT as specified by cell provider: RPMI 1640 medium with 2 mM L-glutamine adjusted to contain 1.5 g/L sodium bicarbonate, 4.5 g/L glucose, 10 mM HEPES, and 1.0 mM sodium pyruvate supplemented with 0.023 IU/ml insulin and 10% fetal bovine serum.
 Protocol: 
 Remove and discard culture medium.
@@ -109,7 +109,7 @@ Note: To avoid clumping do not agitate the cells by hitting or shaking the flask
 Add 6.0 to 8.0 ml of complete growth medium and aspirate cells by gently pipetting.
 Add appropriate aliquots of the cell suspension to new culture vessels.
 Incubate cultures at 37°C.
-Subcultivation ratio: A subcultivation ratio of 1:2 to 1:6 is recommended",,,,ATCC,HTB-122,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,,,7/31/12,4/4/16
+Subcultivation ratio: A subcultivation ratio of 1:2 to 1:6 is recommended",,,,ATCC,HTB-122,,"Obtained by Mario Niepel (Harvard Medical School) as part of the ICBP43 Collection in July, 2010",7/16/10,,,7/31/12,4/4/16,4
 50131-2,50131,CAMA-1,,LCL-1466,"<a href = ""http://purl.obolibrary.org/obo/CLO_0002194""  target=""blank"">CLO_0002194</a>","<a href = ""http://www.atcc.org/Products/All/HTB-21"" target=""blank"">ATCC HTB-21</a>",Homo sapiens,breast,,,,female,51,White,,"DOID:3458, adenocarcinoma",,breast adenocarcinoma,,none,,"<a href = ""http://cancer.sanger.ac.uk/cell_lines/sample/overview?id=946382""  target=""blank"">COSS946382</a>",,adherent,"From MGH/CMT as specified by cell provider: Minimum essential medium (Eagle) with 2 mM L-glutamine and Earle's BSS adjusted to contain 1.5 g/L sodium bicarbonate, 0.1 mM non-essential amino acids, and 1.0 mM sodium pyruvate, 90%; fetal bovine serum, 10%.
 Protocol: 
 Remove and discard culture medium.
