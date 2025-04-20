@@ -1,0 +1,36 @@
+,Name,Donor Sex,Donor Age,Donor Ethnicity,Disease,Details of Disease
+0,CAL-51,female,45.0,,"DOID:3459, breast carcinoma",progressive ductal breast adenocarcinoma
+1,MCF7,female,69.0,White,"DOID:3458, adenocarcinoma",breast adenocarcinoma
+2,HME1,female,53.0,,not diseased,
+3,SK-BR-3,female,43.0,White,"DOID:3459, adenocarcinoma",
+4,MDA-MB-231,female,51.0,White,"DOID:3458, adenocarcinoma",breast adenocarcinoma
+5,BT-20,female,74.0,White,"DOID:3459, breast carcinoma",breast ductal carcinoma
+6,BT-549,female,72.0,White,"DOID:3008, ductal carcinoma",breast ductal carcinoma
+7,CAMA-1,female,51.0,White,"DOID:3458, adenocarcinoma",breast adenocarcinoma
+8,HCC1143,female,52.0,White,"DOID:3008, primary ductal carcinoma (ductal carcinoma TMN Stage IIA, grade 3)",breast ductal carcinoma
+9,HCC1395,female,43.0,White,"DOID:3008, primary ductal carcinoma (TNM Stage I, grade 3.)",breast ductal carcinoma
+10,HCC1419,female,42.0,Hispanic,"DOID:3008, ductal carcinoma (TNM stage IIIA, grade 3)",breast ductal carcinoma
+11,HCC1428,female,49.0,White,"DOID:3458, Adenocarcinoma; TNM stage IV, grade 4",breast adenocarcinoma
+12,HCC1806,female,60.0,Black,"DOID:7459, primary Acantholytic Squamous Cell Carcinoma; TNM Stage IIB, grade 2",breast ductal carcinoma
+13,HCC1937,female,23.0,White,"DOID:3008, primary ductal carcinoma; TNM Stage IIB, grade 3",breast ductal carcinoma
+14,HCC1954,female,61.0,Asian,"DOID:3008, primary ductal carcinoma; TNM Stage IIA, grade 3)",breast ductal carcinoma
+15,HCC38,female,50.0,Female,"DOID:3008, primary ductal carcinoma; TNM Stage IIB, grade 3",breast ductal carcinoma
+16,HCC70,female,49.0,Black,"DOID:3008, primary ductal carcinoma; TNM stage IIIA, grade 3",breast ductal carcinoma
+17,Hs 578T,female,74.0,White,"DOID:3008, ductal carcinoma",breast ductal carcinoma
+18,MDA-MB-134-VI,female,74.0,White,"DOID:3008, ductal carcinoma",breast ductal carcinoma
+19,MDA-MB-157,female,44.0,Black,"DOID:5605, breast medullary carcinoma",
+20,MDA-MB-361,female,40.0,White,"DOID:3458, adenocarcinoma",breast adenocarcinoma
+21,MDA-MB-436,female,43.0,White,"DOID:3458, adenocarcinoma",breast adenocarcinoma
+22,MDA-MB-453,female,48.0,White,"DOID:3459, breast carcinoma",breast carcinoma; metastatic carcinoma
+23,MDA-MB-468,female,51.0,Black,"DOID:3458, adenocarcinoma",breast adenocarcinoma
+24,T47D,female,54.0,,"DOID:3459, breast carcinoma",
+25,HCC1500,female,54.0,Black,"DOID:3008, ductal carcinoma",breast ductal carcinoma
+26,MCF 10A,female,36.0,White,fibrocystic disease,non-tumorigenic
+27,SUM1315MO2,,,,,
+28,SUM149PT,,,,,
+29,SUM159PT,,,,,
+30,CAL-120,female,43.0,,"DOID:3458, breast adenocarcinoma",breast adenocarcinoma
+31,CAL-85-1,female,35.0,,"DOID:3458, breast adenocarcinoma",breast adenocarcinoma
+32,PDX1258,female,,,,metaplastic triple negative breast cancer
+33,PDX1328,female,,,,breast cancer
+34,PDXHCI002,female,,,"DOID: 3008, IDC","poorly differentiated, medullary type, stage 3A"
