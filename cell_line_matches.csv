@@ -1,0 +1,4 @@
+Patient_ID,Cell_Line,Similarity_Score,Cell_Line_Age,Cell_Line_Race,Cell_Line_T_Stage
+Breast_MRI_001,50207,0.913095311072276,42.0,Hispanic,3.0
+Breast_MRI_001,50331,0.9130953110722749,40.0,White,4.0
+Breast_MRI_001,50333,0.8400877467674585,43.0,White,4.0
